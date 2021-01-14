@@ -3,5 +3,5 @@ version: "3"
 services:
   zookeeper:
     build: .
-    image: "citizensadvice/zookeeper"
+    image: "public.ecr.aws/citizensadvice/zookeeper"
 
